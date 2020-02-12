@@ -1,0 +1,1 @@
+Libraries have been added this project to allow us to use voice. Those libraries are in the jar folder the project file and we want you to know this because the project might not compile properly if ran on a different IDE where these libraries haven't been installed.
